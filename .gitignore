@@ -1,0 +1,10 @@
+﻿# 构建工具与临时文件不进仓库
+_tools/
+build/
+release/
+signing/*.pfx
+*.log
+*.user
+.vs/
+bin/
+obj/
