@@ -5,6 +5,8 @@ Qingwa SnapOCR  End User License Agreement
 Copyright (c) 2026 Qingwa. All rights reserved.
 版权所有 (c) 2026 Qingwa，保留所有权利。
 
+作者QQ：82345616
+
 一、授权范围
 1. 本软件为「免费使用、闭源专有」软件。任何个人或组织可以从官方发布页
    （GitHub Releases）免费下载并安装使用本软件。
